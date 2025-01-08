@@ -1,4 +1,4 @@
-# Hi there, I'm Yash Shende 👋 ![Yash's GitHub](https://media.giphy.com/media/26AHpIOoyjlwbwn7G/giphy.gif)
+# Hi there, I'm Yash Shende 👋 
 
 Welcome to my GitHub! I'm a passionate **DevOps Engineer** and a recent MBA graduate in **Business Analytics**. With 2+ years of experience in the DevOps field, I specialize in automating workflows, managing cloud infrastructure, and optimizing development pipelines.
 
@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate **DevOps Engineer** and a recent MBA grad
 ### 📊 **CRM Application - DevOps Project**
 A collaborative project where we built and managed a **CRM application**. The infrastructure combined on-premise resources with **AWS**, utilizing **Angular**, **Spring Boot**, and **MySQL**. We focused on optimizing the entire software lifecycle with CI/CD pipelines and automation tools like **Jenkins**, **Docker**, and **Terraform**.
 
-![CRM Project Demo](https://media.giphy.com/media/J1JWWle4nMJ6TULsA5/giphy.gif)
+![CRM Project Demo](https://media.giphy.com/media/Xpck9yDA66pdTmTRwJ/giphy.gif)
 
 ### ⚙️ **CI/CD & Infrastructure Automation**
 - **Jenkins** for automating the build and deployment pipelines.
@@ -14,7 +14,7 @@ A collaborative project where we built and managed a **CRM application**. The in
 - **Docker** for creating and managing containerized application images.
 - **Prometheus** and **Grafana** for monitoring performance metrics across environments.
 
-![CI/CD Animation](https://media.giphy.com/media/24gOdk9HUtG2gZUskV/giphy.gif)
+![CI/CD Animation](https://media.giphy.com/media/jtOfSfaOGS29TaGRXO/giphy.gif)
 
 ## 🛠 Tech Stack
 - **Languages**: Python, Bash, JavaScript/TypeScript
@@ -39,7 +39,7 @@ A collaborative project where we built and managed a **CRM application**. The in
 - Exploring **Serverless Architecture** and **Lambda Functions**.
 - Continuing to sharpen my knowledge in **Cloud Security** and **Infrastructure as Code (IaC)**.
 
-![Learning GIF](https://media.giphy.com/media/10JqMm3pLuynOk/giphy.gif)
+![Learning GIF](https://media.giphy.com/media/3o6Mbcsd40cdL6LTOg/giphy.gif)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/yash-shende)
