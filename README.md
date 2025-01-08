@@ -42,10 +42,18 @@ Building an e-commerce platform from scratch using **Angular**, **Spring Boot**,
 
 
 
-
 ## 📊 GitHub Stats  
 
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash-gits&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-gits&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash-gits&show_icons=true&theme=radical" alt="Yash's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yash-gits&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-gits&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+## 💻 Currently Coding  
+<p align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="400" alt="Coding GIF">
+</p>
+
 
 
