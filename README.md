@@ -82,6 +82,6 @@ A collaborative project where we built and managed a **CRM application**. The in
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/yash-cloud/) 🎯
 - [Twitter](https://twitter.com/iamyash26) 🐦
-- [Web][cloudcrafted.odoo.com](https://cloudcrafted.odoo.com) 🌐
+- [cloudcrafted.odoo.com](https://cloudcrafted.odoo.com) 🌐
 
 Thanks for visiting my GitHub!
