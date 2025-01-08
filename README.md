@@ -1,12 +1,11 @@
-# Hi there, I'm Yash Shende 👋
+# Hi there, I'm [Yash Shende](https://www.linkedin.com/in/yash-cloud/) 👋
 
-Welcome to my GitHub! I'm a passionate **DevOps Engineer** and a recent MBA graduate in **Business Analytics**. With 2+ years of experience in the DevOps field, I specialize in automating workflows, managing cloud infrastructure, and optimizing development pipelines.
+Welcome to my GitHub ! I'm a passionate **DevOps Engineer** and a recent MBA graduate in **Business Analytics**. With 2+ years of experience in the DevOps field, I specialize in automating workflows, managing cloud infrastructure, and optimizing development pipelines.
 
 ## 🚀 Key Projects
 ### 📊 **CRM Application - DevOps Project**
 A collaborative project where we built and managed a **CRM application**. The infrastructure combined on-premise resources with **AWS**, utilizing **Angular**, **Spring Boot**, and **MySQL**. We focused on optimizing the entire software lifecycle with CI/CD pipelines and automation tools like **Jenkins**, **Docker**, and **Terraform**.
 
-![CRM Project Demo](https://tenor.com/view/rocket-project-promo-launch-gif-15507979)
 
 ### ⚙️ **CI/CD & Infrastructure Automation**
 - **Jenkins** for automating the build and deployment pipelines.
@@ -14,15 +13,58 @@ A collaborative project where we built and managed a **CRM application**. The in
 - **Docker** for creating and managing containerized application images.
 - **Prometheus** and **Grafana** for monitoring performance metrics across environments.
 
-![CI/CD Animation](https://tenor.com/view/ci-cd-pipeline-cloud-automated-devops-gif-19912938)
 
 ## 🛠 Tech Stack
-<p align="center">
-  <img src="https://tenor.com/view/terraform-logo-gif-13780861" width="50" height="50" alt="Terraform">
-  <img src="https://tenor.com/view/docker-logo-gif-13780860" width="50" height="50" alt="Docker">
-  <img src="https://tenor.com/view/kubernetes-logo-gif-13780866" width="50" height="50" alt="Kubernetes">
-  <img src="https://tenor.com/view/jenkins-logo-gif-13780864" width="50" height="50" alt="Jenkins">
-  <img src="https://tenor.com/view/github-logo-gif-13780867" width="50" height="50" alt="GitHub">
+<p float="left">
+  <a href="https://python.org/" target="_blank" >
+    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+  </a>
+  
+  <a href="https://www.djangoproject.com/" target="_blank" >
+    <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"  height="80" /> 
+  </a>
+  
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
+  </a>
+  <a href="https://grpc.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="75" />
+  </a>
+  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
+  </a>
+ </p>
+  
+### DevOps
+  
+ <p float="left">
+  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
+  </a> 
+  <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
+  </a>
+ </p>
+  
+### Databases and Monitoring
+  
+  <a href="https://prometheus.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
+  </a>
+  <a href="https://www.influxdata.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="60" />
+  </a>
+    <a href="https://www.postgresql.org" target="_blank" >
+    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" />
+  </a>
+  </a>
+    <a href="https://www.mongodb.com/" target="_blank" >
+    <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png" height="60" />
+  </a>
+  
 </p>
 
 ## 🔧 Tools & Technologies
@@ -40,7 +82,6 @@ A collaborative project where we built and managed a **CRM application**. The in
 - Exploring **Serverless Architecture** and **Lambda Functions**.
 - Continuing to sharpen my knowledge in **Cloud Security** and **Infrastructure as Code (IaC)**.
 
-![Learning GIF](https://tenor.com/view/learn-skills-learning-reading-coding-gif-15292479)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/yash-shende)
