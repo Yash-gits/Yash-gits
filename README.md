@@ -50,6 +50,7 @@ A collaborative project where we built and managed a **CRM application**. The in
  </p>
   
 ### Databases and Monitoring
+
   
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
@@ -65,7 +66,8 @@ A collaborative project where we built and managed a **CRM application**. The in
     <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png" height="60" />
   </a>
   
-</p>
+</p>  
+
 
 ## 🔧 Tools & Technologies
 - **Terraform**: Infrastructure as Code tool for provisioning and managing cloud resources.
@@ -84,7 +86,8 @@ A collaborative project where we built and managed a **CRM application**. The in
 
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yash-shende)
-- [Twitter](https://twitter.com/YashShende)
+- [LinkedIn](https://www.linkedin.com/in/yash-cloud/)
+- [Twitter](https://twitter.com/iamyash26)
+- Web (https://cloudcrafted.odoo.com)
 
 Thanks for visiting my GitHub!
