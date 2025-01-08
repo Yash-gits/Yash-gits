@@ -92,5 +92,5 @@ A collaborative project where we built and managed a **CRM application**. The in
 ## 🛠 Top Languages
 ![Yash Shende's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-gits&langs_count=10&layout=compact)
 
-
+ 
 Thanks for visiting my GitHub!
