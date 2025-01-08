@@ -28,3 +28,15 @@ Outside of work, I enjoy working on exciting projects and exploring new technolo
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 
+
+## 🌟 Featured Projects  
+
+### [Super Mario Bros Project](#)
+Automated the deployment of the popular Super Mario Bros project using **AWS**, **Terraform**, **Docker**, and **Kubernetes** (EKS). Implemented Infrastructure-as-Code (IaC) to ensure scalability and reliability.  
+[**🔗 View Repository**](#)  
+
+### [Flipkart Clone Project](#)
+Building an e-commerce platform from scratch using **Angular**, **Spring Boot**, and **MySQL**, with **Minikube** for orchestration. Focused on cost optimization and modular architecture.  
+*Currently in progress... Stay tuned!*  
+[**🔗 View Repository**](#)  
+
