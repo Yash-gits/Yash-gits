@@ -84,4 +84,13 @@ A collaborative project where we built and managed a **CRM application**. The in
 - [Twitter](https://twitter.com/iamyash26) 🐦
 - [cloudcrafted.odoo.com](https://cloudcrafted.odoo.com) 🌐
 
+
+
+## 🎯 GitHub Stats
+![Yash Shende's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-gits&count_private=true&show_icons=true&hide=prs)
+
+## 🛠 Top Languages
+![Yash Shende's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-gits&langs_count=10&layout=compact)
+
+
 Thanks for visiting my GitHub!
