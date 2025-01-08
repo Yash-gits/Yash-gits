@@ -50,4 +50,38 @@ A collaborative project where we built and managed a **CRM application**. The in
 ### Databases and Monitoring
 
 <p float="left">
-  <a href="
+  <a href="https://prometheus.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
+  </a>
+  <a href="https://www.influxdata.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="60" />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png" height="60" />
+  </a>
+</p>
+
+## 🔧 Tools & Technologies
+- **Terraform**: Infrastructure as Code tool for provisioning and managing cloud resources.
+- **Docker**: Platform for developing, shipping, and running applications in containers.
+- **Kubernetes**: Open-source system for automating the deployment, scaling, and management of containerized applications.
+- **Jenkins**: Open-source automation server for building, deploying, and automating projects.
+- **GitHub**: Platform for version control and collaboration on code repositories.
+
+## 📜 My Work
+- I focused on automation, provisioning infrastructure, creating CI/CD pipelines, optimizing cloud resources, and managing performance.
+- I regularly collaborated with other DevOps engineers and the development team to keep pipelines running smoothly and securely.
+
+## 🌱 What I’m Currently Learning
+- Exploring **Serverless Architecture** and **Lambda Functions**.
+- Continuing to sharpen my knowledge in **Cloud Security** and **Infrastructure as Code (IaC)**.
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/yash-cloud/) 🎯
+- [Twitter](https://twitter.com/iamyash26) 🐦
+- Web: [cloudcrafted.odoo.com](https://cloudcrafted.odoo.com) 🌐
+
+Thanks for visiting my GitHub!
