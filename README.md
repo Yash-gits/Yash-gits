@@ -1,63 +1,48 @@
-# Hi there 👋  
+# Hi there, I'm Yash Shende 👋 ![Yash's GitHub](https://media.giphy.com/media/26AHpIOoyjlwbwn7G/giphy.gif)
 
-I am **Yash Shende**, a **DevOps Engineer** passionate about developing and deploying scalable, production-ready applications. 🚀  
+Welcome to my GitHub! I'm a passionate **DevOps Engineer** and a recent MBA graduate in **Business Analytics**. With 2+ years of experience in the DevOps field, I specialize in automating workflows, managing cloud infrastructure, and optimizing development pipelines.
 
-I have hands-on experience with various DevOps tools and technologies, including Kubernetes, Docker, Jenkins, Terraform, and more. With a focus on automation and cost optimization, I strive to make systems efficient, secure, and reliable. 🎯  
+## 🚀 Key Projects
+### 📊 **CRM Application - DevOps Project**
+A collaborative project where we built and managed a **CRM application**. The infrastructure combined on-premise resources with **AWS**, utilizing **Angular**, **Spring Boot**, and **MySQL**. We focused on optimizing the entire software lifecycle with CI/CD pipelines and automation tools like **Jenkins**, **Docker**, and **Terraform**.
 
-Outside of work, I enjoy working on exciting projects and exploring new technologies.  
+![CRM Project Demo](https://media.giphy.com/media/J1JWWle4nMJ6TULsA5/giphy.gif)
 
-## 🛠️ Technologies & Tools  
+### ⚙️ **CI/CD & Infrastructure Automation**
+- **Jenkins** for automating the build and deployment pipelines.
+- **Terraform** to provision and manage AWS resources like EC2, S3, VPC, and IAM roles.
+- **Docker** for creating and managing containerized application images.
+- **Prometheus** and **Grafana** for monitoring performance metrics across environments.
 
-### Programming Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square)
+![CI/CD Animation](https://media.giphy.com/media/24gOdk9HUtG2gZUskV/giphy.gif)
 
-### DevOps Tools  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white&style=flat-square)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square)
+## 🛠 Tech Stack
+- **Languages**: Python, Bash, JavaScript/TypeScript
+- **DevOps Tools**:
+  - ![Terraform](https://img.shields.io/badge/Terraform-%23FFF?style=flat-square&logo=terraform&logoColor=red)
+  - ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
+  - ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+  - ![Jenkins](https://img.shields.io/badge/Jenkins-%23F5E1A4?style=flat-square&logo=jenkins&logoColor=black)
+  - ![GitHub](https://img.shields.io/badge/GitHub-%23FFFFFF?style=flat-square&logo=github&logoColor=black)
 
-### Cloud Platforms  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
-![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square)
+## 🔧 Tools & Technologies
+- **Cloud Platforms**: AWS (EC2, S3, VPC, IAM)
+- **Version Control**: GitHub
+- **Continuous Integration**: Jenkins, GitHub Actions
+- **Monitoring**: Prometheus, Grafana, SonarQube
 
-### Monitoring & Databases  
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat-square)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+## 📜 My Work
+- I focused on automation, provisioning infrastructure, creating CI/CD pipelines, optimizing cloud resources, and managing performance.
+- I regularly collaborated with other DevOps engineers and the development team to keep pipelines running smoothly and secure.
+  
+## 🌱 What I’m Currently Learning
+- Exploring **Serverless Architecture** and **Lambda Functions**.
+- Continuing to sharpen my knowledge in **Cloud Security** and **Infrastructure as Code (IaC)**.
 
+![Learning GIF](https://media.giphy.com/media/10JqMm3pLuynOk/giphy.gif)
 
-## 🌟 Featured Projects  
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/yash-shende)
+- [Twitter](https://twitter.com/YashShende)
 
-### [Super Mario Bros Project](#)
-Automated the deployment of the popular Super Mario Bros project using **AWS**, **Terraform**, **Docker**, and **Kubernetes** (EKS). Implemented Infrastructure-as-Code (IaC) to ensure scalability and reliability.  
-[**🔗 View Repository**](#)  
-
-### [Flipkart Clone Project](#)
-Building an e-commerce platform from scratch using **Angular**, **Spring Boot**, and **MySQL**, with **Minikube** for orchestration. Focused on cost optimization and modular architecture.  
-*Currently in progress... Stay tuned!*  
-[**🔗 View Repository**](#)  
-
-
-
-
-## 📊 GitHub Stats  
-
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash-gits&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-gits&layout=compact&theme=radical)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash-gits&show_icons=true&theme=radical" alt="Yash's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yash-gits&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-gits&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-## 💻 Currently Coding  
-<p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="400" alt="Coding GIF">
-</p>
-
-
-
+Thanks for visiting my GitHub!
