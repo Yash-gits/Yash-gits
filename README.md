@@ -40,3 +40,12 @@ Building an e-commerce platform from scratch using **Angular**, **Spring Boot**,
 *Currently in progress... Stay tuned!*  
 [**🔗 View Repository**](#)  
 
+
+
+
+## 📊 GitHub Stats  
+
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash-gits&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-gits&layout=compact&theme=radical)
+
+
